@@ -19,8 +19,8 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- 🔭 I’m currently working on":      "Re-Os as a Senior Software Developer",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, Flutter",
+		"- 🔭 I’m currently working on":      "Emare as a Senior Software Developer",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, Nextjs",
 		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "C#, Asp.Net Mvc, Asp.net Mvc Core, Java, SQL, Software Design & Architecture",
