@@ -1,60 +1,42 @@
-# Emrah Atalay
+# 👋 Hello, I'm Emrah!  
 
-<h2 align="center">About me</h2>
+Welcome to my GitHub profile! 🚀  
 
-```golang
-package main
+## 🌟 About Me  
+- 🎮 **Aspiring Game Developer**: Exploring Unity and Godot.  
+- 🤖 **AI Enthusiast**: Passionate about computer vision and object detection.  
+- 🛠️ **Software Developer**: Skilled in backend, frontend, and mobile development.  
+- 🌱 **Lifelong Learner**: Currently diving into C++ and OpenGL.  
 
-import (
-	"fmt"
-)
+---
 
-type Bio map[string]string
+## 🛠️ Tech Stack  
+- **Backend**: C#, .NET, RabbitMQ, Hangfire  
+- **Frontend**: React, Next.js  
+- **Mobile**: Flutter  
+- **Game Engines**: Unity, Godot  
+- **AI**: Python (object detection, motion tracking)
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+---
 
-func GetBio() Bio {
-	return Bio{
-		"- 🔭 I’m currently working on":      "Emare as a Senior Software Developer",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, Nextjs",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "C#, Asp.Net Mvc, Asp.net Mvc Core, Java, SQL, Software Design & Architecture",
-		"- 📫 How to reach me:":              "https://github.com/eatalay13",
-	}
-}
-```
+## 📊 My GitHub Stats  
+![Emrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eatalay13&show_icons=true&theme=radical)  
+![Totaly](https://github-readme-streak-stats.herokuapp.com/?user=eatalay13&theme=radical)
 
-<h2 align="center">You can reach me at :alien:</h2>
+## 🎯 Goals  
+- 🌟 Build engaging, mobile-friendly games.  
+- 🤓 Enhance my algorithmic thinking and math skills for game development.  
+- 🌍 Collaborate on open-source projects.  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emrah-atalay-934919184/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Emrah Atalay LinkedIn Profile" height="30" width="30">
-  </a>
+## 📫 Get in Touch  
+- 📧 **Email**: emrahatalay92@gmail.com  
+- 🔗 **LinkedIn**: [emrahdev](https://linkedin.com/in/emrahatalay)  
 
-  <a href="https://stackshare.io/emrahatalay92">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Emrah Atalay StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/eatalay13">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Emrah Atalay GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@emrahatalay92">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Emrah Atalay Medium Profile" height="30" width="30">
-  </a>
-</p>
+## 🎉 Fun Facts  
+- 🌳 I love hiking in nature.  
+- 📚 Reading books, especially in a quiet room, is my ultimate meditation.  
+- 💬 I'm working on improving my English. Don't hesitate to say "Hello!" to me!  
 
-<h4 align="center">Top langs :tongue:</h4>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatalay13&langs_count=10&theme=tokyonight&layout=compact" alt="eatalay13 :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=eatalay13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="eatalay13 :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+🚀 _"Software is the art of turning imagination into reality."_  
