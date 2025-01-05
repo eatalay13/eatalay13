@@ -30,7 +30,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 Get in Touch  
 - 📧 **Email**: emrahatalay92@gmail.com  
-- 🔗 **LinkedIn**: [emrahdev](https://linkedin.com/in/emrahatalay)  
+- 🔗 **LinkedIn**: [Emrah Atalay](https://www.linkedin.com/in/emrahatalay/)
 
 ## 🎉 Fun Facts  
 - 🌳 I love hiking in nature.  
