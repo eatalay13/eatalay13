@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀  
 
 ## 🌟 About Me  
-- 🎮 **Aspiring Game Developer**: Exploring Unity and Godot.  
+- 🎮 **Aspiring Game Developer**: Exploring Godot.  
 - 🤖 **AI Enthusiast**: Passionate about computer vision and object detection.  
 - 🛠️ **Software Developer**: Skilled in backend, frontend, and mobile development.  
 - 🌱 **Lifelong Learner**: Currently diving into Python and AI.  
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! 🚀
 - **Backend**: C#, .NET, RabbitMQ, Hangfire  
 - **Frontend**: React, Next.js  
 - **Mobile**: Flutter  
-- **Game Engines**: Unity, Godot  
+- **Game Engines**: Godot, Unreal Engine  
 - **AI**: Python (object detection, motion tracking)
 
 ---
