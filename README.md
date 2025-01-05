@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀
 - 🎮 **Aspiring Game Developer**: Exploring Unity and Godot.  
 - 🤖 **AI Enthusiast**: Passionate about computer vision and object detection.  
 - 🛠️ **Software Developer**: Skilled in backend, frontend, and mobile development.  
-- 🌱 **Lifelong Learner**: Currently diving into C++ and OpenGL.  
+- 🌱 **Lifelong Learner**: Currently diving into Python and AI.  
 
 ---
 
