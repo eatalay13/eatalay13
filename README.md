@@ -42,4 +42,4 @@ Welcome to my GitHub profile! 🚀
 🚀 _"Software is the art of turning imagination into reality."_  
 
 
-[![eatalay13's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eatalay13)](https://github.com/eatalay13/github-readme-activity-graph)
+[![eatalay13's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eatalay13&theme=github-compact)](https://github.com/eatalay13/github-readme-activity-graph)
